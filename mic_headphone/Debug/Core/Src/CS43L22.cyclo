@@ -1,0 +1,8 @@
+../Core/Src/CS43L22.c:13:13:write_register	1
+../Core/Src/CS43L22.c:22:13:read_register	1
+../Core/Src/CS43L22.c:30:6:CS43_Pin_RST_Init	1
+../Core/Src/CS43L22.c:39:6:CS43_Init	3
+../Core/Src/CS43L22.c:106:6:CS43_Enable_RightLeft	5
+../Core/Src/CS43L22.c:135:6:CS43_SetVolume	2
+../Core/Src/CS43L22.c:152:6:CS43_Start	1
+../Core/Src/CS43L22.c:176:6:CS43_Stop	1
