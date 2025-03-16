@@ -13,3 +13,5 @@ It is recommended to complete the projects in the following order:
 7. `mic_headphone`
 
 The completed code for each project can be found in the corresponding folder (each containing a complete STM32 project).
+
+After trying these projects, check out [STM32F407 with TFT LCD and MQTT](https://github.com/zvdv/STM32F407-TFT-LCD-MQTT) for examples of how you might design a standalone product with the STM32F407.
